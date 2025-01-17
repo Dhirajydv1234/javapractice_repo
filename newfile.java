@@ -2,6 +2,6 @@ class newfile
 {
     public static void main(String[] args)
     {
-        System.out.println("This Is My Project");
+        System.out.println("This Is practice server");
     }
 }
